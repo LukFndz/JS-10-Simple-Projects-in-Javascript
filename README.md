@@ -1,7 +1,7 @@
 # JS-10-Simple-Projects-in-Javascript
 Hey, this is a project where i have 10 tiny projects to show my vanilla JS skills.
 
-1- Hidden Menu \n
+1- Hidden Menu
 2- Notifications
 3- Auto Text
 4- Popup
